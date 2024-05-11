@@ -1,9 +1,10 @@
-# AutoSave CRUD Docs
+# AutoSave CRUD Docs 🔥
 
-![AutoSave CRUD Docs](https://your-image-url.com)
+
 
 ## Live Preview
 [AutoSave CRUD Docs Live Preview](https://autosave-crud-docs.netlify.app/)
+
 
 ### Development Setup
 1. **Clone:** `git clone https://github.com/your-username/google-docs.git`
