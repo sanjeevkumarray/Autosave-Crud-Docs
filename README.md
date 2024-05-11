@@ -13,7 +13,7 @@
 4. **Start:** `npm start`
 
 ### About
-AutoSave CRUD Docs is a web app for efficient document management with automatic saving.
+AutoSave CRUD Docs is a web application designed to simplify document management by providing CRUD (Create, Read, Update, Delete) functionality with automatic saving.
 
 ### Features
 - CRUD operations for documents
