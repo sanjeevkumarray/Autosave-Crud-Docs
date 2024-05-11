@@ -6,6 +6,6 @@
 
 # Development Setup
 
-cd google-docs
-npm install
-npm start
+   cd google-docs
+   npm install
+   npm start
